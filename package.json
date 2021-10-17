@@ -41,6 +41,7 @@
     "qs": "^6.10.1",
     "request": "^2.88.2",
     "scraper-instagram": "^1.0.17",
+    "heroku-client": "^3.1.0",
     "seventh": "^0.7.40",
     "spinnies": "^0.3.2",
     "string-kit": "^0.12.5",
